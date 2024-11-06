@@ -16,15 +16,17 @@ Outside of work, I enjoy contributing to open-source projects and participating 
 
 Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
 ## 🛠 Skills
-![JavaScript]([![image](https://github.com/user-attachments/assets/3645319a-18fb-4ecc-8b6a-3ee6dccfa7ac](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg))
-![TypeScript](./images/typescript.svg)
-![React](./images/react.svg)
-![GraphQL](./images/graphql.svg)
-![Webpack](./images/webpack.svg)
-![Sass](./images/sass.svg)
-![Tailwind CSS](./images/tailwindcss.svg)
-![Docker](./images/docker.svg)
-![REST API](./images/api.svg)
-![Python](./images/python.svg)
+
+![JavaScript](https://github.com/yourusername/yourrepository/raw/main/assets/javascript_icon.svg)
+![TypeScript](https://github.com/yourusername/yourrepository/raw/main/assets/typescript_icon.svg)
+![React](https://github.com/yourusername/yourrepository/raw/main/assets/react_icon.svg)
+![GraphQL](https://github.com/yourusername/yourrepository/raw/main/assets/graphql_icon.svg)
+![Webpack](https://github.com/yourusername/yourrepository/raw/main/assets/webpack_icon.svg)
+![Sass](https://github.com/yourusername/yourrepository/raw/main/assets/sass_icon.svg)
+![Tailwind CSS](https://github.com/yourusername/yourrepository/raw/main/assets/tailwindcss_icon.svg)
+![Docker](https://github.com/yourusername/yourrepository/raw/main/assets/docker_icon.svg)
+![REST API](https://github.com/yourusername/yourrepository/raw/main/assets/api_icon.svg)
+![Python](https://github.com/yourusername/yourrepository/raw/main/assets/python_icon.svg)
+
 
 
