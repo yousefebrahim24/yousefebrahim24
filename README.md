@@ -15,3 +15,16 @@ In addition, I am experienced in agile development methodologies and have worked
 Outside of work, I enjoy contributing to open-source projects and participating in coding communities. I believe in the importance of giving back to the tech community and helping others learn and grow.
 
 Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
+## 🛠 Skills
+
+![JavaScript](https://path_to_your_image/javascript_icon.png)
+![TypeScript](https://path_to_your_image/typescript_icon.png)
+![React](https://path_to_your_image/react_icon.png)
+![GraphQL](https://path_to_your_image/graphql_icon.png)
+![Webpack](https://path_to_your_image/webpack_icon.png)
+![Sass](https://path_to_your_image/sass_icon.png)
+![Tailwind CSS](https://path_to_your_image/tailwind_icon.png)
+![Docker](https://path_to_your_image/docker_icon.png)
+![REST API](https://path_to_your_image/rest_icon.png)
+🐍 Python | :orange_book: JavaScript | :blue_book: TypeScript | :atom: React
+
