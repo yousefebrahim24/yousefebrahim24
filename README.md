@@ -16,7 +16,7 @@ Outside of work, I enjoy contributing to open-source projects and participating 
 
 Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
 ## 🛠 Skills
-![JavaScript](![image](https://github.com/user-attachments/assets/3645319a-18fb-4ecc-8b6a-3ee6dccfa7ac)
+![JavaScript]([![image](https://github.com/user-attachments/assets/3645319a-18fb-4ecc-8b6a-3ee6dccfa7ac](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg))
 ![TypeScript](./images/typescript.svg)
 ![React](./images/react.svg)
 ![GraphQL](./images/graphql.svg)
@@ -28,4 +28,3 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 ![Python](./images/python.svg)
 
 
-](https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667)
