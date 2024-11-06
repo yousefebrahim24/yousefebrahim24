@@ -17,14 +17,14 @@ Outside of work, I enjoy contributing to open-source projects and participating 
 Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
 ## 🛠 Skills
 
-![JavaScript](https://path_to_your_image/javascript_icon.png)
-![TypeScript](https://path_to_your_image/typescript_icon.png)
-![React](https://path_to_your_image/react_icon.png)
-![GraphQL](https://path_to_your_image/graphql_icon.png)
-![Webpack](https://path_to_your_image/webpack_icon.png)
-![Sass](https://path_to_your_image/sass_icon.png)
-![Tailwind CSS](https://path_to_your_image/tailwind_icon.png)
-![Docker](https://path_to_your_image/docker_icon.png)
-![REST API](https://path_to_your_image/rest_icon.png)
-🐍 Python | :orange_book: JavaScript | :blue_book: TypeScript | :atom: React
+![JavaScript](./images/javascript.svg)
+![TypeScript](./images/typescript.svg)
+![React](./images/react.svg)
+![GraphQL](./images/graphql.svg)
+![Webpack](./images/webpack.svg)
+![Sass](./images/sass.svg)
+![Tailwind CSS](./images/tailwindcss.svg)
+![Docker](./images/docker.svg)
+![REST API](./images/api.svg)
+![Python](./images/python.svg)
 
